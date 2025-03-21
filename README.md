@@ -15,3 +15,4 @@ Foi um teste simples, mas mostrou como essas ferramentas podem otimizar a análi
 
 ![image](https://github.com/user-attachments/assets/dc981580-7074-486a-a058-74beb90e5e05)
 
+Durante o teste, iniciei criando os recursos necessários no portal do Azure, como o serviço de busca e o armazenamento. Em seguida, configurei uma fonte de dados para extrair as informações que seriam processadas. Apliquei habilidades de IA para enriquecer os dados, utilizando funcionalidades como extração de texto, identificação de entidades e frases-chave. Após isso, usei o indexador do Azure para organizar esses dados em um índice de pesquisa. Com o índice criado, foi possível realizar consultas utilizando filtros e palavras-chave. Por fim, revisei os dados enriquecidos que ficaram salvos no Armazenamento de Conhecimento, prontos para serem utilizados em análises ou integrações futuras.
